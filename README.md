@@ -29,4 +29,9 @@ python main.py
 ```
 
 
+### Screenshots
+**Just there for showing how actually it looks (flex ofc), I will update this later too**
+![image](https://user-images.githubusercontent.com/55452780/141337038-3ce07f92-556d-4422-83de-a66a2386277c.png)
+
+
 ***And yes, Use app passwords to login to the smtp server (in case if smtp server is google) or else waste your time enabling lesssecureapps and unlocking display captcha and using normal account password lol. And keep waiting for the readme to be updated by me xD***
