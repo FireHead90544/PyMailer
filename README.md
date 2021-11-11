@@ -1,4 +1,8 @@
 # PyMailer
 An open source GUI based mail sender written in python using PySide2 and smtplib.
 
-Code to be added and README to be updated soon.
+### Checklist
+[x] v1 Completed
+[x] Code Added
+[] Update README with usage instructions and info
+[] Write a github action for releasing pyinstaller builds automaically
